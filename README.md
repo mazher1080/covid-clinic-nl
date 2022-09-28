@@ -6,4 +6,4 @@ Completed as a project for the 2021 Hack Frost NL hackathon event
 
 Team Name: Triple Gulp Cup (Muneeb Azher, Ethan Joyce, Victor Borges)
 
-Finished in 5th place out of 31 teams
+Finished in 8th place out of 31 teams
